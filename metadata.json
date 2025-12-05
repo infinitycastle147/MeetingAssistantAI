@@ -1,0 +1,8 @@
+{
+  "name": "Meeting Assistant AI",
+  "description": "Real-time AI meeting assistant that captures audio and suggests responses.",
+  "requestFramePermissions": [
+    "microphone",
+    "display-capture"
+  ]
+}
